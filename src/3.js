@@ -14,3 +14,4 @@ return true;
 console.log(palindrome('palindrome'));
 //Hannah is my favourite palindrome name
 console.log(palindrome('hannah'));
+console.log(palindrome("Are we not pure? “No sir!” Panama’s moody Noriega brags. “It is garbage!” Irony dooms a man; a prisoner up to new era."));
